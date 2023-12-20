@@ -31,7 +31,6 @@ waitRelay() {
       sleep $RETRY_INTERVAL
       unrelayed=$(${RLY} query ${query_type} ${PATH_NAME} | jq "${filter}")
       if [ $unrelayed -gt 0 ]; then
-        echo $unrelayed
         break
       fi
   done

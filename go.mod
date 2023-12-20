@@ -203,4 +203,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace github.com/hyperledger-labs/yui-relayer => github.com/yoshidan/yui-relayer v0.0.0-20231220000054-404dda522bf2
+replace github.com/hyperledger-labs/yui-relayer => github.com/yoshidan/yui-relayer v0.0.0-20231219121813-a042abd82445
