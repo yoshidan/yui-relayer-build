@@ -1116,8 +1116,8 @@ github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 h1:bAn7/zixMGCfxrRTfdpNzjtPYqr8smhKouy9mxVdGPU=
 github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0/go.mod h1:/LWChgwKmvncFJFHJ7Gvn9wZArjbV5/FppcK2fKk/tI=
-github.com/yoshidan/yui-relayer v0.0.0-20231219121813-a042abd82445 h1:GJ1bnuNjWKvcak5BBz6h037R/zsfOzT2TZeIllm6584=
-github.com/yoshidan/yui-relayer v0.0.0-20231219121813-a042abd82445/go.mod h1:Hdc/ERCPDhbipri45/U6+/3kDH7EttIWGdql+Rd3tZg=
+github.com/yoshidan/yui-relayer v0.0.0-20231220000054-404dda522bf2 h1:4IOHmYeXOsS3D5z1RrPGDdfQYDBLp/LtiTN1sKyEOhM=
+github.com/yoshidan/yui-relayer v0.0.0-20231220000054-404dda522bf2/go.mod h1:Hdc/ERCPDhbipri45/U6+/3kDH7EttIWGdql+Rd3tZg=
 github.com/yudai/gojsondiff v1.0.0/go.mod h1:AY32+k2cwILAkW1fbgxQ5mUmMiZFgLIV+FBNExI05xg=
 github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82/go.mod h1:lgjkn3NuSvDfVJdfcVVdX+jpBxNmX4rDAzaS45IcYoM=
 github.com/yudai/pp v2.0.1+incompatible/go.mod h1:PuxR/8QJ7cyCkFp/aUDS+JY727OFEZkTdatxwunjIkc=
