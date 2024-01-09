@@ -15,16 +15,7 @@
     "enable_debug_trace": false,
     "average_block_time_msec": 3000,
     "max_retry_for_inclusion": 5,
-    "replaceConfig": {
-      "pendingDurationToReplace" : 1,
-      "checkInterval" : 3,
-      "gasPriceInc": "1000000000",
-      "maxGasPrice": "100000000000",
-      "gasTipCapInc": "1000000000",
-      "maxGasTipCap": "100000000000",
-      "gasFeeCapInc": "1000000000",
-      "maxGasFeeCap": "100000000000"
-    }
+    "tx_type": "auto"
   },
   "prover": {
     "@type": "/relayer.provers.mock.config.ProverConfig",

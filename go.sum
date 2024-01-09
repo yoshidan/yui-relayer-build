@@ -1116,8 +1116,8 @@ github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 h1:bAn7/zixMGCfxrRTfdpNzjtPYqr8smhKouy9mxVdGPU=
 github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0/go.mod h1:/LWChgwKmvncFJFHJ7Gvn9wZArjbV5/FppcK2fKk/tI=
-github.com/yoshidan/ethereum-ibc-relay-chain v0.0.0-20231225072216-f2357c7dc5a2 h1:VPJa61QHjpG8GG5wnSqXXBEiz2E3XkaCrrFcX2tSNSc=
-github.com/yoshidan/ethereum-ibc-relay-chain v0.0.0-20231225072216-f2357c7dc5a2/go.mod h1:z2LO59ewVXH0SFmTFMO3z+YRCfAGAJoZ19bvnCX+gJM=
+github.com/yoshidan/ethereum-ibc-relay-chain v0.0.0-20240103132947-9ce0eb0efe73 h1:wGZVEuH1OH92WAmEQ68Kyv1l3BaCmHFFIiCriBw38PQ=
+github.com/yoshidan/ethereum-ibc-relay-chain v0.0.0-20240103132947-9ce0eb0efe73/go.mod h1:FDKiZNh2r8kz/KAXBG9tNDcoT6jyiUR1EfiE9W7Xjbc=
 github.com/yudai/gojsondiff v1.0.0/go.mod h1:AY32+k2cwILAkW1fbgxQ5mUmMiZFgLIV+FBNExI05xg=
 github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82/go.mod h1:lgjkn3NuSvDfVJdfcVVdX+jpBxNmX4rDAzaS45IcYoM=
 github.com/yudai/pp v2.0.1+incompatible/go.mod h1:PuxR/8QJ7cyCkFp/aUDS+JY727OFEZkTdatxwunjIkc=
